@@ -244,6 +244,34 @@
     },
     "unbalanced_revenue_exception": {
       "type": ["null", "boolean"]
+    },
+    "c_categoria": {
+      "type": ["null", "string"]
+    },
+    "c_comentarios_churn": {
+      "type": ["null", "string"]
+    },
+    "c_destino_churn": {
+      "type": ["null", "string"]
+    },
+    "c_razon_churndownsell": {
+      "type": ["null", "string"]
+    },
+    "c_cantidad_de_personas": {
+      "type": ["null", "number"],
+      "multipleOf": 1e-10
+    },
+    "conversion": {
+      "type": ["null", "string"]
+    },
+    "c_metrics": {
+      "type": ["null", "boolean"]
+    },
+    "sales_manager": {
+      "type": ["null", "string"]
+    },
+    "c_tipo": {
+      "type": ["null", "string"]
     }
   }
 }

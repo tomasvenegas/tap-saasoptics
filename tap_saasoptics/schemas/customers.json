@@ -267,6 +267,21 @@
     },
     "unbalanced_revenue_exception": {
       "type": ["null", "boolean"]
+    },
+    "c_billing_status": {
+      "type": ["null", "string"]
+    },
+    "c_ops_status": {
+      "type": ["null", "string"]
+    },
+    "c_reason_of_billing_overdue": {
+      "type": ["null", "string"]
+    },   
+    "segment": {
+      "type": ["null", "string"]
+    },
+    "subsegment": {
+      "type": ["null", "string"]
     }
   }
 }
