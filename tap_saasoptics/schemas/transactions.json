@@ -272,6 +272,9 @@
     },
     "c_tipo": {
       "type": ["null", "string"]
+    }, 
+    "c_estado_renovacion": {
+      "type": ["null", "string"]
     }
   }
 }
