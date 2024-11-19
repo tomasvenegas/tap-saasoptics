@@ -264,6 +264,9 @@
     },
     "c_fuente_del_negocio": {
       "type": ["null", "string"]
+    }, 
+    "c_partner": {
+      "type": ["null", "string"]
     }
   }
 }
