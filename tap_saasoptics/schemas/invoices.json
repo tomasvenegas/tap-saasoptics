@@ -271,6 +271,9 @@
     },
     "c_orden_de_compra": {
         "type": ["null", "string"]
+    }, 
+    "c_estado": {
+        "type": ["null", "string"]
     }
   }
 }
